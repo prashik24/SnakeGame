@@ -1,4 +1,24 @@
-🐍 Snake Game (Pure JavaScript)
+Perfect 👍 You already have a good **README.md** draft. I’ll polish it, fix flow, and make it more engaging and professional. Here’s the improved version for your Snake Game repo:
 
-A classic Snake Game built completely from scratch using JavaScript, HTML, and CSS.
+---
+
+# 🐍 Snake Game (Pure JavaScript)
+
+A **classic Snake Game** built completely from scratch using **JavaScript, HTML, and CSS**.
 Relive the nostalgia of the retro Snake game with smooth controls, interactive gameplay, and fun sound effects.
+
+👉 [**Tutorial & Demo**](https://jsdev.space/snake-js/)
+
+---
+
+## 🎮 Features
+
+* **Classic Snake Gameplay** – Control the snake, eat food, and grow longer.
+* **Dynamic Food & Bombs** – Random food spawns increase score; bombs trigger instant game-over.
+* **Collision Detection** – Game ends when the snake hits walls, itself, or bombs.
+* **Sound Effects & Music** – Food bites, bombs, and game-over sounds for immersion.
+* **Responsive Design** – Playable across desktop and mobile screen sizes.
+
+---
+
+s / GIF preview section** (so your README looks more visual on GitHub)?
