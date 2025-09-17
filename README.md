@@ -21,4 +21,3 @@ Relive the nostalgia of the retro Snake game with smooth controls, interactive g
 
 ---
 
-s / GIF preview section** (so your README looks more visual on GitHub)?
