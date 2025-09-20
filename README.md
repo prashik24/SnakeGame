@@ -113,3 +113,48 @@ const CONFIG = {
 * Debounce direction changes to prevent 180° turns in one tick.
 
 ---
+
+## ❗ Troubleshooting
+
+* **No sound?**
+  Most browsers block autoplay. Interact (click/tap) once or toggle sound with **M**.
+* **Black canvas or nothing happens?**
+  Open via a local server (see Quick Start). Direct file URLs can block assets.
+* **Controls feel laggy?**
+  Close background tabs, reduce `tickMs`, or lower grid size.
+
+---
+
+## 🤝 Contributing
+
+PRs welcome!
+
+1. Fork the repo
+2. Create a feature branch: `git checkout -b feature/my-feature`
+3. Commit: `git commit -m "feat: add X"`
+4. Push: `git push origin feature/my-feature`
+5. Open a Pull Request
+
+---
+
+## 🗺️ Roadmap
+
+* Difficulty modes (Easy/Normal/Hard)
+* Skins & themes
+* Power-ups (slow time, shield)
+* Scoreboard with initials
+
+---
+
+## 📜 License
+
+**MIT** — free to use, modify, and share.
+
+---
+
+## 🎯 Play Now
+
+Dive in: [**SnakeGame Live**](https://prashik24.github.io/SnakeGame/)
+Have fun, and don’t bite your tail! 🐍✨
+
+---
