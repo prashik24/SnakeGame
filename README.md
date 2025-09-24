@@ -137,7 +137,7 @@ PRs welcome!
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Future Roadmap Idea :
 
 * Difficulty modes (Easy/Normal/Hard)
 * Skins & themes
