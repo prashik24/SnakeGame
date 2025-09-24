@@ -155,6 +155,6 @@ PRs welcome!
 ## 🎯 Play Now
 
 Dive in: [**SnakeGame Live**](https://prashik24.github.io/SnakeGame/)
-Have fun, and don’t bite your tail! 🐍✨
+Have fun, and don’t bite your tail!  keep Playing the Game 🐍✨
 
 ---
