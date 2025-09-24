@@ -3,7 +3,8 @@
 
 A fast, clean remake of the classic **Snake** using **HTML, CSS, and vanilla JavaScript**. Smooth controls, crunchy SFX, dynamic food & bombs, and a responsive layout that works on desktop and mobile.
 
-[▶️ Play Demo](https://prashik24.github.io/SnakeGame/) • [📘 Tutorial](https://prashik24.github.io/SnakeGame/)
+[▶️ Play Demo](https://prashik24.github.io/SnakeGame/) 
+• [📘 Tutorial](https://prashik24.github.io/SnakeGame/)
 
 ---
 
