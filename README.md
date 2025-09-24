@@ -1,6 +1,3 @@
-Here’s a crisper, more polished README you can drop in. I kept your voice, tightened the copy, and added sections devs/users usually look for (controls, rules, file structure, troubleshooting, and a mini-roadmap). Swap the repo links if needed.
-
----
 
 # 🐍 Snake Game — Pure JavaScript
 
