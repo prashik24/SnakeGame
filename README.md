@@ -146,7 +146,7 @@ PRs welcome!
 
 ## 📜 License
 
-**MIT** — free to use, modify, and share.
+**MIT** — free to use, modify, and share and subcribe .
 
 ---
 
