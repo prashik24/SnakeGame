@@ -29,7 +29,7 @@ A Fast, clean remake of the classic **Snake** using **HTML, CSS, and vanilla Jav
 
 **Touch (Mobile)**
 
-* On-screen arrows / swipe (if enabled)
+* On-screen arrows / swipe (if enabled button)
 
 ---
 
